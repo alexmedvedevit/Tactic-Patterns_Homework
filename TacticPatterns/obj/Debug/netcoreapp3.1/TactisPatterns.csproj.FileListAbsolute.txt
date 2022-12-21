@@ -1,0 +1,13 @@
+D:\Универ\УВП-171 (Магистратура)\DDD\Lab2\TacticPatterns\bin\Debug\netcoreapp3.1\TactisPatterns.exe
+D:\Универ\УВП-171 (Магистратура)\DDD\Lab2\TacticPatterns\bin\Debug\netcoreapp3.1\TactisPatterns.deps.json
+D:\Универ\УВП-171 (Магистратура)\DDD\Lab2\TacticPatterns\bin\Debug\netcoreapp3.1\TactisPatterns.runtimeconfig.json
+D:\Универ\УВП-171 (Магистратура)\DDD\Lab2\TacticPatterns\bin\Debug\netcoreapp3.1\TactisPatterns.runtimeconfig.dev.json
+D:\Универ\УВП-171 (Магистратура)\DDD\Lab2\TacticPatterns\bin\Debug\netcoreapp3.1\TactisPatterns.dll
+D:\Универ\УВП-171 (Магистратура)\DDD\Lab2\TacticPatterns\bin\Debug\netcoreapp3.1\TactisPatterns.pdb
+D:\Универ\УВП-171 (Магистратура)\DDD\Lab2\TacticPatterns\obj\Debug\netcoreapp3.1\TactisPatterns.csprojAssemblyReference.cache
+D:\Универ\УВП-171 (Магистратура)\DDD\Lab2\TacticPatterns\obj\Debug\netcoreapp3.1\TactisPatterns.AssemblyInfoInputs.cache
+D:\Универ\УВП-171 (Магистратура)\DDD\Lab2\TacticPatterns\obj\Debug\netcoreapp3.1\TactisPatterns.AssemblyInfo.cs
+D:\Универ\УВП-171 (Магистратура)\DDD\Lab2\TacticPatterns\obj\Debug\netcoreapp3.1\TactisPatterns.csproj.CoreCompileInputs.cache
+D:\Универ\УВП-171 (Магистратура)\DDD\Lab2\TacticPatterns\obj\Debug\netcoreapp3.1\TactisPatterns.dll
+D:\Универ\УВП-171 (Магистратура)\DDD\Lab2\TacticPatterns\obj\Debug\netcoreapp3.1\TactisPatterns.pdb
+D:\Универ\УВП-171 (Магистратура)\DDD\Lab2\TacticPatterns\obj\Debug\netcoreapp3.1\TactisPatterns.genruntimeconfig.cache
